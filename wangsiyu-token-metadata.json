@@ -1,0 +1,10 @@
+{
+    "name": "Wang Si Yu",
+    "symbol": "WSY",
+    "type": "TRC20",
+    "decimals": 6,
+    "description": "Official token of Wang Si Yu",
+    "website": "https://your-website.com",
+    "image": "https://github.com/aze0685/6.17/blob/main/tether%20(2).png?raw=true",
+    "version": "1.0"
+}
