@@ -5,6 +5,6 @@
     "decimals": 6,
     "description": "Official token of Tethor US..",
     "website": "https://tron.network/usdt",
-    "image": "https://github.com/aze0685/6.17/blob/main/wsy-token-logo.png?raw=true",
+    "image": "https://raw.githubusercontent.com/aze0685/6.17/main/wsy-token-logo.png",
     "version": "1.0"
 }
